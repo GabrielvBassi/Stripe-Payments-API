@@ -1,0 +1,13 @@
+# Secrets
+.env
+*.env
+application-local.properties
+application-local.yml
+
+# Maven
+target/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
